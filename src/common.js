@@ -18,6 +18,7 @@ module.exports = {
     "prettier",
   ],
   rules: {
+    // Enforce strict mode with CommonJS.
     strict: "error",
   },
 };

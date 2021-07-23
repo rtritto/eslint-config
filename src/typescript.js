@@ -13,6 +13,7 @@ module.exports = {
     "prettier",
   ],
   rules: {
+    // There is no "recommeneded" ruleset for tsdoc yet.
     "tsdoc/syntax": "warn",
   },
 };
