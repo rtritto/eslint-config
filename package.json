@@ -40,6 +40,17 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-tsdoc": "^0.2.14"
   },
+  "peerDependenciesMeta": {
+    "@typescript-eslint/eslint-plugin": {
+      "optional": true
+    },
+    "eslint-plugin-node": {
+      "optional": true
+    },
+    "eslint-plugin-tsdoc": {
+      "optional": true
+    }
+  },
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-plugin-import": "^2.23.4",
