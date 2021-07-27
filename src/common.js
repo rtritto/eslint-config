@@ -13,6 +13,7 @@ module.exports = {
     "plugin:ava/recommended",
     "plugin:import/errors",
     "plugin:import/warnings",
+    "plugin:node/recommended",
     "plugin:prettier/recommended",
     "plugin:promise/recommended",
     "prettier",

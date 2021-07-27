@@ -17,11 +17,14 @@ Peer dependencies (see `package.json` for version details):
 * `eslint`
 * `eslint-plugin-ava`
 * `eslint-plugin-import`
-* `eslint-plugin-node`
 * `eslint-plugin-prettier`
 * `eslint-plugin-promise`
 
 ### JavaScript
+
+Additional peer dependencies (see `package.json` for version details):
+
+* `eslint-plugin-node`
 
 ```javascript
 {
