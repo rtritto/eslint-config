@@ -43,9 +43,6 @@
     "@typescript-eslint/eslint-plugin": {
       "optional": true
     },
-    "eslint-plugin-node": {
-      "optional": true
-    },
     "eslint-plugin-tsdoc": {
       "optional": true
     }
