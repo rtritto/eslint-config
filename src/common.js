@@ -10,7 +10,6 @@ module.exports = {
   },
   extends: [
     "eslint:recommended",
-    "plugin:ava/recommended",
     "plugin:import/errors",
     "plugin:import/warnings",
     "plugin:node/recommended",

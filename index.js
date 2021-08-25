@@ -1,1 +1,3 @@
-module.exports = require("./src/common");
+module.exports = {
+  extends: ["./src/common", "./src/javascript"],
+};
