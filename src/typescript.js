@@ -13,5 +13,17 @@ module.exports = {
   rules: {
     // There is no "recommended" ruleset for tsdoc yet.
     "tsdoc/syntax": "warn",
+    "node/no-unsupported-features/es-syntax": [
+      "error",
+      {
+        ignores: ["modules"],
+      },
+    ],
+    "node/no-missing-import": [
+      "error",
+      {
+        tryExtensions: [".js", ".ts", ".d.ts"],
+      },
+    ],
   },
 };
