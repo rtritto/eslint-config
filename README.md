@@ -20,6 +20,7 @@ Peer dependencies (see `package.json` for version details):
 * `eslint-plugin-node`
 * `eslint-plugin-prettier`
 * `eslint-plugin-promise`
+* `prettier` (due to `eslint-plugin-prettier`)
 
 ### JavaScript
 
