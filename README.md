@@ -14,13 +14,13 @@ yarn add --dev @malept/eslint-config
 
 Peer dependencies (see `package.json` for version details):
 
-* `eslint`
-* `eslint-plugin-ava`
-* `eslint-plugin-import`
-* `eslint-plugin-node`
-* `eslint-plugin-prettier`
-* `eslint-plugin-promise`
-* `prettier` (due to `eslint-plugin-prettier`)
+- `eslint`
+- `eslint-plugin-ava`
+- `eslint-plugin-import`
+- `eslint-plugin-node`
+- `eslint-plugin-prettier`
+- `eslint-plugin-promise`
+- `prettier` (due to `eslint-plugin-prettier`)
 
 ### JavaScript
 
@@ -39,8 +39,8 @@ Usage example:
 
 Additional peer dependencies (see `package.json` for version details):
 
-* `@typescript-eslint/eslint-plugin`
-* `eslint-plugin-tsdoc`
+- `@typescript-eslint/eslint-plugin`
+- `eslint-plugin-tsdoc`
 
 Usage example:
 

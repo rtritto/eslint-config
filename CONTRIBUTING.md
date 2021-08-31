@@ -19,10 +19,10 @@ New rules or plugins should have an issue filed with the reason why it should be
 
 ## Pull requests
 
-* Pull request titles should adhere to the [conventional commits
-specification](https://www.conventionalcommits.org/en/v1.0.0/)
-* Pull request reviews should conform to the [conventional comments
-format](https://conventionalcomments.org/)
+- Pull request titles should adhere to the [conventional commits
+  specification](https://www.conventionalcommits.org/en/v1.0.0/)
+- Pull request reviews should conform to the [conventional comments
+  format](https://conventionalcomments.org/)
 
 ## Releases
 
