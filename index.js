@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["./src/common", "./src/javascript"],
+  extends: ["./src/common", "./src/ava"],
 };
