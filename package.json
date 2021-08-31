@@ -4,7 +4,7 @@
   "description": "Shared ESLint configuration",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "prettier --check *.json *.md && eslint .",
     "prepare": "husky install"
   },
   "repository": {
@@ -64,6 +64,7 @@
     }
   ],
   "lint-staged": {
-    "*.{cjs,js}": "eslint --cache --fix"
+    "*.{cjs,js}": "eslint --cache --fix",
+    "*.{json,md}": "prettier --write"
   }
 }
