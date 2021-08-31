@@ -57,6 +57,12 @@
     "lint-staged": "^11.0.1",
     "prettier": "^2.3.2"
   },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://github.com/sponsors/malept"
+    }
+  ],
   "lint-staged": {
     "*.{cjs,js}": "eslint --cache --fix"
   }
