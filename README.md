@@ -5,11 +5,13 @@
 
 ## Usage
 
+To install this ESLint configuration and its (base) peer dependencies:
+
 ```shell
 # npm
-npm install --save-dev @malept/eslint-config
+npm install --save-dev @malept/eslint-config eslint eslint-plugin-{ava,import,node,prettier,promise} prettier
 # yarn 1
-yarn add --dev @malept/eslint-config
+yarn add --dev @malept/eslint-config eslint eslint-plugin-{ava,import,node,prettier,promise} prettier
 ```
 
 Peer dependencies (see `package.json` for version details):
