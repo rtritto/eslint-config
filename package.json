@@ -26,11 +26,11 @@
     "src"
   ],
   "dependencies": {
-    "@typescript-eslint/parser": "^5.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
     "eslint-config-prettier": "^8.3.0"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
     "eslint": ">=8.0.0",
     "eslint-plugin-ava": "^13.0.0",
     "eslint-plugin-import": "^2.25.0",
@@ -58,7 +58,7 @@
     "prettier": "^3.0.0"
   },
   "engines": {
-    "node": ">= 14.17.0"
+    "node": "^16.0.0 || >= 18.0.0"
   },
   "funding": [
     {
